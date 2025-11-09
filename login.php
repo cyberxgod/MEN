@@ -12,7 +12,7 @@ session_start();
  $databaseUrl = 'postgresql://evil_chk_db_user:10QBHPweTA4ywAPVgSs6vv3uzeeNfc6M@dpg-d482bdjipnbc73d7dfig-a.oregon-postgres.render.com/evil_chk_db';
  $telegramBotToken = '8337646205:AAH8Kf_2Hp8_SB1izlAzjYMoqB_1BGImX20';
  $telegramBotUsername = 'SATANxROBOT';
- $baseUrl = 'http://cxchk.site';
+ $baseUrl = 'https://satanxchecker.onrender.com/';
 
 // -------------------------------
 // DATABASE CONNECTION
